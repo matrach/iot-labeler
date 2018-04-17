@@ -1,0 +1,3 @@
+[submodule "dymoprint"]
+	path = dymoprint
+	url = git@github.com:matrach/dymoprint.git
